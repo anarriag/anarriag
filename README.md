@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Antonio Benjamín Arriagada Llaupe. 
 
-<!--
-**anarriag/anarriag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Front-End.  
+📍 Chile  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+Soy desarrollador Web Front-End de aplicaciones de acuerdo a requerimientos. Con experiencia en soporte técnico computacional, en el área educacional y en gestión de procesos bajo norma ISO 9001. Desempeñandome actualmente como profesional independiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Habilidades Blandas (soft skills)
+🧩 Resolución de problemas.
+🤝 Trabajo en equipo.
+🗣️ Comunicación efectiva.
+🔄 Adaptabilidad.
+📊 Pensamiento analítico.
+
+## 🛠️ Tecnologías
+💻 Desarrollo Web: HTML, CSS3, JavaScript, Vue 3.
+🗄️  Backend básico: PHP, MySQL.
+⚙️ Excel avanzado (VBA, automatización).
+🛠️ Soporte TI (hardware/software).
+🌐 Redes y conectividad.
+📊 Gestión documental digital.
+🔄 Metodologías ágiles (Scrum).
+🏫 Sistemas MINEDUC (SIGE, DIA).
+
+
+## 📊 Estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anarriag&show_icons=true)
+
+## 📫 Contacto
+- LinkedIn: www.linkedin.com/in/antonio-b-arriagada-ll-352984380
+- Email: anarriag@gmail.com
