@@ -4,7 +4,7 @@
 📍 Chile  
 
 ## 🚀 Sobre mí
-Soy desarrollador Web Front-End de aplicaciones de acuerdo a requerimientos. Con experiencia en soporte técnico computacional, en el área educacional y en gestión de procesos bajo norma ISO 9001. Desempeñandome actualmente como profesional independiente.
+Soy desarrollador Web Front-End de aplicaciones de acuerdo a requerimientos. Con experiencia en soporte técnico computacional, en el área educacional y en gestión de procesos bajo norma ISO 9001, con estudios en ciberseguridad. Desempeñandome actualmente como profesional independiente.
 
 ## 🧠 Habilidades Blandas (soft skills)
 🧩 Resolución de problemas.
