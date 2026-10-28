@@ -4,7 +4,12 @@
 📍 Talcahuano, Chile  
 
 ## 🚀 Sobre mí
-Soy desarrollador Web Front-End de aplicaciones de acuerdo a requerimientos. Con experiencia en soporte técnico computacional, en el área educacional y en gestión de procesos bajo norma ISO 9001, con estudios en ciberseguridad. Desempeñandome actualmente como profesional independiente.
+Profesional de TI en proceso de especialización en Ciberseguridad, con amplia trayectoria en soporte técnico, administración de infraestructura tecnológica, redes, desarrollo web y automatización de procesos. Experiencia en la implementación, mantenimiento y optimización de soluciones tecnológicas orientadas a la continuidad operacional, la disponibilidad de los servicios y la mejora de la eficiencia en instituciones educacionales y empresas de capacitación.
+
+Cuento con conocimientos y experiencia en gestión de calidad bajo normas ISO 9001 y NCh 2728, levantamiento y optimización de procesos, seguimiento de indicadores clave de desempeño (KPI) y capacitación en el área TI. Actualmente, complemento mi trayectoria con formación especializada en Ciberseguridad, orientando mi desarrollo profesional hacia la seguridad de redes, protección de sistemas y datos, gestión de vulnerabilidades, análisis de riesgos, monitoreo de eventos de seguridad y prevención de incidentes informáticos.
+
+Mi objetivo es integrar las buenas prácticas de seguridad informática, la gestión de riesgos y la mejora continua para contribuir a la protección de activos digitales, el fortalecimiento de la infraestructura tecnológica y la continuidad del negocio, aportando una visión integral que combina soporte TI, administración de sistemas, automatización y seguridad de la información.
+Actualmente desempeñándome como profesional independiente.
 
 ## 🧠 Habilidades Blandas (soft skills)
 🧩 Resolución de problemas.
